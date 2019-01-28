@@ -1,3 +1,3 @@
 var recipes = {};
 
-function des
+function destructivelyDeleteFromObjectByKey(Object, key)
