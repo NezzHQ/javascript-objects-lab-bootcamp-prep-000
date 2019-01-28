@@ -1,5 +1,5 @@
 var recipes = {};
 
-function destructivelyDeleteFromObjectByKey(Object, key) {
-  
+function updateObjectWithKeyAndValue(Object, key, value) {
+  return
 }
